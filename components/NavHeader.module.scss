@@ -1,0 +1,23 @@
+@import "../styles/breakpoints.scss";
+@import "../styles/colors.scss";
+
+$header-height: 60px;
+
+.Header {
+  align-items: center;
+  background-color: $white;
+  box-shadow: 0 2px 4px 0 $light-grey;
+  display: flex;
+  // justify-content: space-between;
+  justify-content: space-around;
+  height: $header-height;
+}
+
+.DesktopNavItems {
+  display: block;
+
+  li {
+    display: inline-block;
+    margin: 0 15px;
+  }
+}
