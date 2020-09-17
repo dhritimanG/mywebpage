@@ -1,1 +1,1 @@
-Link to my webpage [here](dhritimanganguly.me).
+Link to my webpage [here](http://dhritimanganguly.me).
